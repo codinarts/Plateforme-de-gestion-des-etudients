@@ -1,1 +1,1 @@
-# Student-management
+# Plateforme de gestion des étudients
